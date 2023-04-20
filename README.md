@@ -7,7 +7,7 @@
 1. Orderd List
 2. Unorderderd List
 3. Table
-4. Code
+
 
 - *First* 
 - *Second* 
